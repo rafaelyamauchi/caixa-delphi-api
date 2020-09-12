@@ -1,0 +1,16 @@
+{
+	"name": "Server",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./",
+	"projects": [],
+	"dependencies": {
+		"github.com/hashload/handle-exception": "^0.1.4",
+		"github.com/hashload/horse": "^v2.0.0",
+		"github.com/hashload/horse-logger": "^0.1.5",
+		"https://github.com/hashload/horse-jwt": "^1.2.4",
+		"https://github.com/hashload/jhonson": "^1.0.5",
+		"https://github.com/viniciussanchez/bcrypt": "^1.0.3"
+	}
+}
